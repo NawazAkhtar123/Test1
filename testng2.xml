@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite02">
+  <test thread-count="5" name="Test02">
+    <classes>
+      <class name="Maven21.Orangehrm"/>
+    </classes>
+  </test> <!-- Test02 -->
+</suite> <!-- Suite02 -->
